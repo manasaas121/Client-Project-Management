@@ -4,9 +4,9 @@ ProjectPro is a modern, responsive single-page web application built for managin
 
 🌐 Live Demo & Repository
 
-Live Website: https://projectpro-demo.netlify.app (Deploy your index.html on Netlify, Vercel, or GitHub Pages)
+Live Website:  https://manasaas121.github.io/Client-Project-Management/.app (Deploy your index.html on Netlify, Vercel, or GitHub Pages)
 
-GitHub Repository: https://github.com/your-username/projectpro-client-management.git
+GitHub Repository:  https://manasaas121.github.io/Client-Project-Management/
 
 🌐 Project Specification Details
 
